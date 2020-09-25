@@ -1,0 +1,79 @@
+p
+{
+	color: #000000;
+	font-size: 20px;
+	font-family: Arial;
+	line-height:28px;
+	
+	
+}
+
+h1
+{
+	color: red;
+	font-size: 40px;
+	
+	
+
+}
+h4,em
+{
+	color: blue;
+}
+h2
+{
+	color: gray;
+	font-style: bold;
+	
+
+}
+ul
+{
+	line-height:28px;
+	color: orange;
+	font-family: Arial;
+	font-weight: bold;
+}
+.titi
+{
+	color: red;
+
+}
+.tito
+{
+	color: black;
+}
+
+
+
+
+.textcenter 
+{
+
+left:240px;
+top:180px;
+
+margin-top:15px;
+width:650px;
+padding:3px;
+margin-left:auto;
+ margin-right: auto;
+ width: 2em
+
+text-align:center;
+margin: auto;
+}
+
+
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+
+
+body
+{
+	background: #eeeeee;
+	
+}
